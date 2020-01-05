@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Test Site Blog</title>
+        <title>文档管理平台 Blog</title>
         <link>https://doc.myxcs.com/blog</link>
-        <description>The best place to stay up-to-date with the latest Test Site news and events.</description>
+        <description>The best place to stay up-to-date with the latest 文档管理平台 news and events.</description>
         <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Test Site Blog</title>
+            <title>文档管理平台 Blog</title>
             <url>https://doc.myxcs.com/img/favicon.ico</url>
             <link>https://doc.myxcs.com/blog</link>
         </image>
